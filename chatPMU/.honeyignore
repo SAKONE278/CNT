@@ -1,0 +1,12 @@
+.deploy
+.idea
+.git
+deploy
+node_modules
+backend/node_modules
+backend/data
+frontend/node_modules
+scripts/node_modules
+frontend/build
+version.sh
+version.json

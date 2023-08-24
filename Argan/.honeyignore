@@ -1,0 +1,11 @@
+.circleci
+.deploy
+.idea
+.git
+deploy
+backend/node_modules
+frontend/node_modules
+scripts/node_modules
+frontend/build
+version.sh
+version.json
